@@ -9,7 +9,7 @@ VLSI Design Course had some lab sessions.
   * Without Acknowledgement from Succeeding stage
 
 ### Lab 2
-* GCD of Two Tumbers
+* GCD of Two Numbers
 
 ### Lab 3
 * Sum of Squares of First N Natural Numbers
