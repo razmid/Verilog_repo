@@ -5,6 +5,8 @@ VLSI Design Course had some lab sessions.
 
 ### Lab 1
 * Sum of First N Natural Numbers
+ * With Acknowledgement from succeeding stage
+ * Without Acknowledgement from Succeeding stage
 
 ### Lab 2
 * GCD of Two Tumbers
