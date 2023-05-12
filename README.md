@@ -1,7 +1,7 @@
 # Verilog Codes
 This Repo contains the Verilog Designs which are done during my course work. 
-## Sem_1 Files
-Sem 1 had VLSI Design course in which included the following lab sessions. 
+##PhD Cousework 
+Sem 2 had VLSI Architecture course in which included the following lab sessions. 
 
 * Lab 1 - Sum of First N Natural Numbers
   * With Acknowledgement from succeeding stage
