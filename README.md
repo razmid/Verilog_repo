@@ -13,6 +13,5 @@ VLSI Design Course had some lab sessions.
 * Sum of Squares of First N Natural Numbers
 ### Lab 4
 * CORDIC Algorithm
-
-** Iterative Design
-** Pipelined Design
+  * Iterative Design
+  * Pipelined Design
