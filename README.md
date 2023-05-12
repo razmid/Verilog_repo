@@ -9,7 +9,7 @@ VLSI Design Course had some lab sessions.
 ### Lab 2
 * GCD of Two Tumbers
 
-###Lab 3
+### Lab 3
 * Sum of Squares of First N Natural Numbers
 ### Lab 4
 * CORDIC Algorithm
